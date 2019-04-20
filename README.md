@@ -1,2 +1,2 @@
-i should never give up soon!
+i should never give up!:
 git checkout master. 切换到maste
